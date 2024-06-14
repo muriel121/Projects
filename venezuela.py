@@ -2,7 +2,7 @@
 """
 Created on Mon Jun  3 07:16:09 2024
 
-@author: 81256535
+@author: Muriel Gauer
 """
 
 import pandas as pd
